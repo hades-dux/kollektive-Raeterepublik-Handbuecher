@@ -1,4 +1,5 @@
-# Handbuch für Justiz & Tribunalgericht in der Kollektiven Räterepublik
+
+# 📘 Handbuch für Justiz & Tribunalgericht in der Kollektiven Räterepublik ⚖️📜
 
 ## 1. Struktur und Aufgabe
 - Das Justizsystem dient der **Rechtsklarheit, Gerechtigkeit und kollektiven Rechenschaft**.
@@ -49,9 +50,31 @@
 - Empfehlungen zur Verbesserung werden öffentlich gemacht.
 - Es gibt eine **jährliche Rechenschaftspflicht** gegenüber dem Kollektiv.
 
+## 10. Rehabilitierung & gesellschaftliche Reintegration
+- Das Ziel jeder Sanktion ist **Verantwortungsübernahme und Wiedergutmachung**.
+- Das Tribunalgericht kann anordnen:
+  - Reflexion durch Schulung oder Vermittlung
+  - Aktive Wiedergutmachung durch gemeinnützige Arbeit oder öffentliche Beiträge
+  - Therapeutische oder soziale Begleitung
+- Rehabilitierte Personen können unter definierten Bedingungen wieder in kollektive Prozesse integriert werden.
+
+## 11. Justizbildung & Öffentlichkeit
+- Das Tribunalgericht beteiligt sich an **öffentlicher Rechtsbildung**:
+  - Veröffentlichung verständlicher Urteilszusammenfassungen
+  - Digitale Rechtsplattform mit Beispielen & Erklärungen
+  - Besuche in Schulen, Simulationen, Foren
+- Ziel ist ein **zugängliches, verständliches und mitgestaltbares Rechtssystem**.
+
+## 12. Kontrollinstanz für KI & automatisierte Systeme
+- Die gerichtliche Kontrolle von Algorithmen, automatisierten Entscheidungen und KI-Systemen erfolgt in Kooperation mit dem **KI-Ethikrat**.
+- Im Fall schwerwiegender Eingriffe oder Fehlfunktionen ist das **Tribunalgericht** zuständig für:
+  - Prüfung von Rechtmäßigkeit & Verhältnismäßigkeit
+  - Anordnung von Anpassungen, Einschränkungen oder Deaktivierungen
+- Bei Streitfällen zur Abschaltung gilt die KI-Gesetzgebung, inkl. gerichtlicher Überprüfung und Beteiligung der Öffentlichkeit.
+
 ---
 
 ✅ **Abgeschlossen**  
-📅 *Datum: 05.04.2025, 21:37 Uhr*  
-🕊️ *Dokument geprüft, ergänzt und für vollständig erklärt.*  
-🔒 *Freigegeben zur Anwendung und Archivierung.*
+📅 *Datum: 06.04.2025, 03:56 Uhr*  
+🕊️ *Dokument ergänzt, systemisch verknüpft und für vollständig erklärt.*  
+🔒 *Freigegeben zur Umsetzung, Anwendung und kollektiven Weiterentwicklung.*
