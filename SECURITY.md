@@ -1,15 +1,14 @@
-# 🔐 Sicherheitsrichtlinien
+# 🔐 Sicherheitsrichtlinien für Aurora-Express-Handbücher
 
 ## Sicherheitslücke gefunden?
 
-Bitte sende Hinweise zu sicherheitsrelevanten Schwachstellen an:
+Bitte melde sie an:
 
 📧 sicherheit@kollektive-raeterepublik.org
 
 Wir kümmern uns um:
-- Datenschutzprobleme in Skripten/Strukturen
-- ungewollte Veröffentlichung sensibler Inhalte
-- Exploits in interaktiven Tools
+- Datenschutzprobleme
+- strukturelle Schwachstellen
+- inhaltliche Gefahren (z. B. Falschinformationen)
 
-## Reaktion
-Wir antworten innerhalb von 5 Werktagen und veröffentlichen Korrekturen transparent.
+Antwortzeit: max. 5 Werktage. Alle Berichte werden vertraulich behandelt.

@@ -1,13 +1,12 @@
 # 🤝 Verhaltenskodex
 
 ## Unser Versprechen
-Wir verpflichten uns zu einer offenen, freundlichen und respektvollen Zusammenarbeit.
+Wir schaffen ein Umfeld, das offen, freundlich und respektvoll für alle ist – unabhängig von Fähigkeit, Herkunft, Sprache oder Meinung.
 
 ## Unerwünschtes Verhalten
-- Diskriminierung, Herabsetzung, Ausgrenzung
-- Aggressives oder beleidigendes Verhalten
-- Politische Instrumentalisierung ohne inhaltlichen Bezug
+- Diskriminierung oder Herabwürdigung
+- Aggressive Kommunikation oder Trolling
+- Politische Hetze oder gezielte Störung der Diskussion
 
-## Umgang mit Konflikten
-- Kontakt: [admin@kollektive-raeterepublik.org] (Platzhalter)
-- Beschwerden werden anonym und sensibel behandelt.
+## Konfliktlösung
+Beschwerden bitte anonym oder offen per Mail an: kontakt@kollektive-raeterepublik.org
